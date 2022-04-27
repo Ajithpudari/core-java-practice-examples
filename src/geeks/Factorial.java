@@ -1,3 +1,5 @@
+package geeks;
+
 public class Factorial {
     public static void main(String args[]){
         int x=5;
